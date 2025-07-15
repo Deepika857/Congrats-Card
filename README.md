@@ -1,12 +1,16 @@
 # Congrats-Card
 In this project, let's build a Congrats Card by applying the concepts I have learned till now.
+
 Refer to the image below:
+
 ![Image description](https://assets.ccbp.in/frontend/content/react-js/congrats-card-lg-output-img.png)
 
 Design Files
 
-Extra Small (Size < 576px), Small (Size >= 576px)
-Medium (Size >= 768px), Large (Size >= 992px) and Extra Large (Size >= 1200px)
+Extra Small (Size < 576px)
+Small (Size >= 576px)
+Medium (Size >= 768px)
+Large (Size >= 992px) and Extra Large (Size >= 1200px)
 
 Completion Instructions
 
@@ -18,7 +22,9 @@ index.css
 Resources
 Image URLs:
 https://assets.ccbp.in/frontend/react-js/congrats-card-bg.png
+
 https://assets.ccbp.in/frontend/react-js/congrats-card-profile-img.png
+
 https://assets.ccbp.in/frontend/react-js/congrats-card-watch-img.png
 
 Colors:
