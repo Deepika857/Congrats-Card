@@ -23,6 +23,7 @@ index.css
 
 Resources
 Image URLs:
+
 https://assets.ccbp.in/frontend/react-js/congrats-card-bg.png
 
 https://assets.ccbp.in/frontend/react-js/congrats-card-profile-img.png
@@ -30,7 +31,11 @@ https://assets.ccbp.in/frontend/react-js/congrats-card-profile-img.png
 https://assets.ccbp.in/frontend/react-js/congrats-card-watch-img.png
 
 Colors:
+
 Hex: #0f172a
+
 Hex: #cffafe
+
 Hex: #1e293b
+
 Font-families: Roboto
