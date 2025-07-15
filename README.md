@@ -1,5 +1,5 @@
 # Congrats-Card
-In this project, let's build a Congrats Card by applying the concepts I have learned till now.
+In this project, Build a Congrats Card by applying the concepts I have learned till now.
 
 Refer to the image below:
 
