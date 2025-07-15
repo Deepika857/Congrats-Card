@@ -16,7 +16,9 @@ Completion Instructions
 
 Implementation Files:
 Use these files to complete the implementation:
+
 index.js
+
 index.css
 
 Resources
